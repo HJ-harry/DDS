@@ -2,6 +2,8 @@
 
 [Hyungjin Chung](https://www.hj-chung.com/), Suhyeon Lee, [Jong Chul Ye](https://bispl.weebly.com/professor.html)  
 
+📢📢 The pre-trained model checkpoints and data are moved to a [new location](https://www.dropbox.com/scl/fo/mlkwofr24nmsnzixj5u4d/AI-JOLUOAzklINnr8FdKpdk?rlkey=p4bj5ny58tngsjd1j46iyoqh6&st=lba2c97z&dl=0).
+
 Official PyTorch implementation for **Decomposed Diffusion Sampling (DDS)**, presented in the paper [Decomposed Diffusion Sampler for Accelerating Large-Scale Inverse Problems](https://arxiv.org/abs/2303.05754).
 ![concept](./figs/cover.png)
 
